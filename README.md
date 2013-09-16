@@ -8,5 +8,5 @@ The method was proposed by the John Tukey. Method usually applied to two-way tab
    This repository contains code  and data of two examples of using median polish algorithm. The results were 
 validated to comply with sources.
 
-	Add version of fitting model by average as alternative to median. This equivalent to ANOVA analysis. Comparing results of fit we can clear see advantage of using Median Polish to Average Polish.	  
+   Add version of fitting model by average as alternative to fitting by median. This is equivalent to ANOVA analysis. Comparing results of both fit to the same data we can clear see advantage of using Median Polish.	  
 
